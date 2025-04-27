@@ -1,0 +1,10 @@
+{
+    "name": "jwf05/captcha",
+    "description": "hyperf-captcha",
+    "autoload": {
+        "psr-4": {
+            "Jwf05\\Captcha\\": "src/"
+        }
+    },
+    "require": {}
+}
