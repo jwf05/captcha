@@ -6,5 +6,10 @@
             "Jwf05\\Captcha\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=8.1",
+        "ext-gd": "*",
+        "hyperf/config": "*",
+        "hyperf/framework": "*"
+    }
 }
